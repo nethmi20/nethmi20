@@ -61,6 +61,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmi20&layout=compact&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethmi20&theme=default&hide_border=true" width="100%" />
-</p>
