@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethmi Wijeweera</h1>
-<h3 align="center">Passionate Fullstack Developer & AI Enthusiast | Final-year Undergraduate @ University of Moratuwa</h3>
+<h3 align="center">Passionate Fullstack Developer & AI Enthusiast | @ University of Moratuwa</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nethmi20&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi20" /> 
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 **Final-year Undergraduate** at the University of Moratuwa (UOM).
+* 🎓 **Information Technology Graduate** from the University of Moratuwa (UOM).
 * 💡 **Passionate** about building scalable software and AI-powered applications.
 * 💻 Interested in **Software Development, Cloud Computing, and AI Solutions.**
 * 🚀 Actively looking for **Software Engineer** or **AI Engineer** roles to contribute, learn, and grow.
