@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 **Information Technology Graduate** from the University of Moratuwa (UOM).
+* 🎓 **Information Technology Graduated** from the University of Moratuwa (UOM).
 * 💡 **Passionate** about building scalable software and AI-powered applications.
 * 💻 Interested in **Software Development, Cloud Computing, and AI Solutions.**
 * 🚀 Actively looking for **Software Engineer** or **AI Engineer** roles to contribute, learn, and grow.
